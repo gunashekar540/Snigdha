@@ -1,0 +1,36 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Frontend Developer",
+      "company": "Google",
+      "location": "Hyderabad",
+      "salary": "600000",
+      "description": "Build and optimize web applications with modern frameworks."
+    },
+    {
+      "id": "2",
+      "title": "Backend Developer",
+      "company": "Amazon",
+      "location": "Hyderabad",
+      "salary": "600000",
+      "description": "Develop robust APIs and microservices using Node.js and Python."
+    },
+    {
+      "id": "3",
+      "title": "Fullstack Developer",
+      "company": "Microsoft",
+      "location": "Hyderabad",
+      "salary": "600000",
+      "description": "Work on both frontend and backend solutions with React and Spring Boot."
+    },
+    {
+      "id": "df40",
+      "title": "Full Stack Developer",
+      "company": "Zithaara",
+      "location": "Hyderabad",
+      "salary": "600000",
+      "description": "As a Full Stack Developer at Zithara.AI, you'll design, develop, and maintain full-stack applications using technologies like ReactJS, Next.js, Tailwind CSS, and NodeJS, with a focus on microservices, RESTful APIs, and cloud infrastructure. "
+    }
+  ]
+}
