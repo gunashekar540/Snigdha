@@ -33,8 +33,10 @@ export default function AddJob() {
 
       router.push("/jobs"); // Redirect to job listings page after adding
     } catch (err) {
+      console.error("Error adding job:", err);
       setError("Error adding job. Please try again.");
     }
+    
   };
 
   return (
